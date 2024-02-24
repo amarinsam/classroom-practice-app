@@ -47,10 +47,10 @@ Note: You wont be able to start anything until you create a server!
     - Let the client-side filter by age
     - Create a middleware to log ```'I got this!'``` when a request comes in
   
-### Building the Application
+## Building the Application
 You're going to build a Fullstack classroom list application! At the end, you'll want to be able to see the student's name and age. You want to be able to add students, edit them, and delete them.
 
-#### Step 1
+### Step 1
 Lets build some of the backend first,
 
 - [ ] Create a server with express, make sure you have ALL the needed imports/tools
@@ -60,7 +60,7 @@ Lets build some of the backend first,
 
 ``` Think about separation of concerns, what is the job of each file? ```
 
-#### Step 2
+### Step 2
 Connect the frontend, if you've properly built the server, you should now be able to build and serve up the client-side!
 
 - [ ] Get the list from our database - think about how we get it and where we store it!
@@ -69,7 +69,7 @@ Connect the frontend, if you've properly built the server, you should now be abl
 
 ``` Remember how props work, delve into where it make SENSE to create functions ```
 
-#### Step 3
+### Step 3
 Lets build a bit more functionality,
 
 - [ ] Lets make a way for us to delete a student, starting on the backend
@@ -79,7 +79,7 @@ Lets build a bit more functionality,
 
 ``` At this point, we can go back and forth, just make sure you are keeping track of what you're working on ```
 
-#### Step 4
+### Step 4
 Challenge stuff! You're on your own :D
 
 Again, you got this!
