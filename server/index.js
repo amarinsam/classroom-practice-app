@@ -1,1 +1,11 @@
-// This is your server app
+// This is your server file
+
+/*
+  Middleware
+*/
+
+/*
+  Routes
+*/
+
+// Make sure its listening >.>
